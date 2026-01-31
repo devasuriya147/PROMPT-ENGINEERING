@@ -216,8 +216,3 @@ Overall, generative AI has the potential to significantly impact a wide range of
 
 
 
-
-# Output
-
-
-# Result
