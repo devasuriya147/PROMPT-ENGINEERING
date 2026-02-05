@@ -105,6 +105,9 @@ There's also ongoing work to optimize the overall size and training time require
 ### Overview of large language models:
 
 <img width="926" height="910" alt="img-4" src="https://github.com/user-attachments/assets/e2e2d29c-91a9-493f-bcd9-70045c650847" />
+
+
+
 ### Topic 2: Introduction to Generative AI
 
 
