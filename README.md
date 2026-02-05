@@ -100,11 +100,16 @@ Multimodal model. Originally LLMs were specifically tuned just for text, but wi
 <img width="1039" height="364" alt="img-3" src="https://github.com/user-attachments/assets/c3c12afe-0229-46d3-976f-8c7ff6a7dc3e" />
 The future of LLMs is still being written by the humans who are developing the technology, though there could be a future in which the LLMs write themselves, too. The next generation of LLMs will not likely be artificial general intelligence or sentient in any sense of the word, but they will continuously improve and get "smarter."LLMs will also continue to expand in terms of the business applications they can handle. Their ability to translate content across different contexts will grow further, likely making them more usable by business users with different levels of technical expertise.LLMs will continue to be trained on ever larger sets of data, and that data will increasingly be better filtered for accuracy and potential bias, partly through the addition of fact-checking capabilities. It's also likely that LLMs of the future will do a better job than the current generation when it comes to providing attribution and better explanations for how a given result was generated.Enabling more accurate information through domain-specific LLMs developed for individual industries or functions is another possible direction for the future of large language models. Expanded use of techniques such as reinforcement learning from human feedback, which OpenAI uses to train ChatGPT, could help improve the accuracy of LLMs too. There's also a class of LLMs based on the concept known as retrieval-augmented generation -- including Google's Realm, which is short for Retrieval-Augmented Language Model -- that will enable training and inference on a very specific corpus of data, much like how a user today can specifically search content on a single site.
 There's also ongoing work to optimize the overall size and training time required for LLMs, including development of Meta's Llama model. Llama 2, which was released in July 2023, has less than half the parameters than GPT-3 has and a fraction of the number GPT-4 contains, though its backers claim it can be more accurate.On the other hand, the use of large language models could drive new instances of shadow IT in organizations. CIOs will need to implement usage guardrails and provide training to avoid data privacy problems and other issues. LLMs could also create new cybersecurity challenges by enabling attackers to write more persuasive and realistic phishing emails or other malicious communications.Nonetheless, the future of LLMs will likely remain bright as the technology continues to evolve in ways that help improve human productivity.
+
+
 ### Overview of large language models:
 
 <img width="926" height="910" alt="img-4" src="https://github.com/user-attachments/assets/e2e2d29c-91a9-493f-bcd9-70045c650847" />
 ### Topic 2: Introduction to Generative AI
+
+
 ### Aim:
+
 To introduce the concept of Generative AI, explain how it works, and discuss its applications and challenges.
 
 ### Procedure:
